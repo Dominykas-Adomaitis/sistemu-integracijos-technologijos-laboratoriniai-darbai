@@ -1,0 +1,28 @@
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.exe
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.deps.json
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.runtimeconfig.json
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.runtimeconfig.dev.json
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.dll
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.pdb
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.csproj.AssemblyReference.cache
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.AssemblyInfoInputs.cache
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.AssemblyInfo.cs
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.csproj.CoreCompileInputs.cache
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.dll
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.pdb
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.genruntimeconfig.cache
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.exe
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.deps.json
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.runtimeconfig.json
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.runtimeconfig.dev.json
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.dll
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\bin\Debug\netcoreapp3.1\C Chat Client Console.pdb
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.csproj.AssemblyReference.cache
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.AssemblyInfoInputs.cache
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.AssemblyInfo.cs
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.csproj.CoreCompileInputs.cache
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.dll
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.pdb
+C:\Users\Dominykas\Desktop\Sistemu integracijos technologijos\Lab1 socket\C Chat Client Console\C Chat Client Console\obj\Debug\netcoreapp3.1\C Chat Client Console.genruntimeconfig.cache

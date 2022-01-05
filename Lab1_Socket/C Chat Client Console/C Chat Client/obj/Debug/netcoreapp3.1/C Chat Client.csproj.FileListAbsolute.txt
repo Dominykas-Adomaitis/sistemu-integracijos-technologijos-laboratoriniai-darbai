@@ -1,0 +1,32 @@
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.exe
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.deps.json
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.runtimeconfig.json
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.runtimeconfig.dev.json
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.dll
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.pdb
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.csproj.AssemblyReference.cache
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\obj\Debug\netcoreapp3.1\C_Chat_Client.Form1.resources
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.csproj.GenerateResource.cache
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.AssemblyInfoInputs.cache
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.AssemblyInfo.cs
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.csproj.CoreCompileInputs.cache
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.dll
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.pdb
+C:\Users\Dominykas\source\repos\C Chat Client\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.genruntimeconfig.cache
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.exe
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.deps.json
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.runtimeconfig.json
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.runtimeconfig.dev.json
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.dll
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\bin\Debug\netcoreapp3.1\C Chat Client.pdb
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.csproj.AssemblyReference.cache
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\obj\Debug\netcoreapp3.1\C_Chat_Client.Form1.resources
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.csproj.GenerateResource.cache
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.AssemblyInfoInputs.cache
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.AssemblyInfo.cs
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.csproj.CoreCompileInputs.cache
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.dll
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.pdb
+C:\Users\Dominykas\source\repos\C Chat Client Console\C Chat Client\obj\Debug\netcoreapp3.1\C Chat Client.genruntimeconfig.cache

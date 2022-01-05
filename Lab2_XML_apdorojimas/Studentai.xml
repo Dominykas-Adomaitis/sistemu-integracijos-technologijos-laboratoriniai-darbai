@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<studentai>
+ 
+  <studentas id="36453" vardas="Petras">
+    <pazymiai>
+      <paz1>5</paz1>
+      <paz2>7</paz2>
+    </pazymiai>
+    <vidurkis>6.00</vidurkis>
+  </studentas>
+ 
+  <studentas id="75643" vardas="Jonas">
+    <pazymiai>
+      <paz1>9</paz1>
+      <paz2>6</paz2>
+    </pazymiai>
+    <vidurkis>7.50</vidurkis>
+  </studentas>
+ 
+  <studentas id="56442" vardas="Antanas">
+    <pazymiai>
+      <paz1>6</paz1>
+      <paz2>8</paz2>
+    </pazymiai>
+    <vidurkis>7.00</vidurkis>
+  </studentas>
+
+</studentai>

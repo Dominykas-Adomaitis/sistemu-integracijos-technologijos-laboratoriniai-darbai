@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<studentai>
+ 
+  <Vakarinis id="36453" vardas="Petras">
+    <pazymiai>
+      <matematika>
+        <paz1>5</paz1>
+        <paz2>7</paz2>
+      </matematika>
+      <technologija>
+        <paz1>8</paz1>
+        <paz2>4</paz2>
+      </technologija>
+    </pazymiai>
+    <vidurkis>6.00</vidurkis>
+  </Vakarinis>
+ 
+  <Dieninis id="75643" vardas="Jonas">
+    <pazymiai>
+      <matematika>
+        <paz1>8</paz1>
+        <paz2>7</paz2>
+      </matematika>
+      <fizika>
+        <paz1>7</paz1>
+        <paz2>10</paz2>
+      </fizika>
+    </pazymiai>
+    <vidurkis>8</vidurkis>
+  </Dieninis>
+
+  <Dieninis id="48843" vardas="Andrius">
+    <pazymiai>
+      <matematika>
+        <paz1>5</paz1>
+        <paz2>5</paz2>
+      </matematika>
+      <fizika>
+        <paz1>5</paz1>
+        <paz2>7</paz2>
+      </fizika>
+    </pazymiai>
+    <vidurkis>5.50</vidurkis>
+  </Dieninis>
+ 
+  <Vakarinis id="56442" vardas="Antanas">
+    <pazymiai>
+      <matematika>
+        <paz1>8</paz1>
+        <paz2>8</paz2>
+      </matematika>
+      <technologija>
+        <paz1>8</paz1>
+        <paz2>10</paz2>
+      </technologija>
+    </pazymiai>
+    <vidurkis>8.50</vidurkis>
+  </Vakarinis>
+
+</studentai>
